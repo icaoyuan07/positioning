@@ -1,0 +1,4 @@
+interface:
+  display_name: "定位官"
+  short_description: "账号定位访谈专用 Skill，完成定位与账号包装"
+  default_prompt: "使用 $positioning-interview 引导我完成账号定位访谈与账号包装。"
