@@ -37,10 +37,10 @@ AI第二大脑_内容创作系统/
 
 ```text
 请使用 skill-installer 安装这个 GitHub Skill：
-https://github.com/wangguoqing123/shengcai-positioning-interview
+https://github.com/icaoyuan07/positioning.git
 ```
 
-安装完成后，“航海定位官”会说明接下来的四个阶段，并给出个人定位的第一个问题。
+安装完成后，“定位官”会说明接下来的四个阶段，并给出个人定位的第一个问题。
 
 ## 使用方法
 
